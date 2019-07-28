@@ -5,4 +5,7 @@ The ‘English Phonetics and Phonology: Advanced Level’ is an integrated and s
 - the study of the sociolinguistic aspects of speech and
 - the study of interactional phonetics and phonology.
 
+
+[Palatalization](./figures/palatalization.png)
+
 It covers all these topics through the discussion of key research methods and resources, reading classic texts written by leading theorists, highlighting key concepts in different traditions of phonetics and phonology and finally by studying important papers by contemporary specialists showing what phonetics and phonology is able to achieve if applied to different social issues and social settings. It will therefore be  of major interest to everyone interested in phonetics, phonology, conversation analysis, discourse analysis and sociolinguistics.
